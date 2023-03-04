@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.conatiner {
+  background-color: #0c0c0c;
+  height: 100vh;
+  padding: 0 2rem;
+}
+.conatiner h1 {
+  color: #fff;
+  margin-bottom: 2rem;
+}
+.conatiner .header {
+  display: flex;
+  color: #fff;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+button {
+  padding: 0.5rem 3rem;
+}
+.searh-data {
+  border: 1px solid #fff;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 2rem;
+}
+#listData {
+  border: 1px solid #fff;
+}

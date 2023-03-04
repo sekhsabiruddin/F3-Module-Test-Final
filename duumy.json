@@ -1,0 +1,757 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2506,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "X58EqptgJV8C",
+      "etag": "xLkFiVguhDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X58EqptgJV8C",
+      "volumeInfo": {
+        "title": "Percy Jackson: The Complete Series (Books 1, 2, 3, 4, 5)",
+        "authors": ["Rick Riordan"],
+        "publisher": "Penguin UK",
+        "publishedDate": "2013-07-04",
+        "description": "All five novels in the bestselling, blockbuster Percy Jackson series, collected in one stunning digital edition. I was just a normal kid, going to school, playing basketball, skateboarding. The usual. Until I accidentally vaporized my maths teacher. 'Look, I didn't want to be a Half-Blood. I never asked to be the son of a Greek God.' Percy Jackson: The Complete Series includes all five novels in the action-packed, electrifying series from Rick Riordan: The Lightning Thief, The Sea of Monsters, The Titan's Curse, The Battle of the Labyrinth, and The Last Olympian. Now I spend my time battling monsters and generally trying to stay alive. Angry Gods. Cannibal Giants. Ancient Labyrinths. Untold Evils. It's not easy being a demigod. Rick Riordan has now sold an incredible 55 million copies of his books worldwide The Percy Jackson series has sold over 1.25 million copies in the UK alone",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141352015"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141352019"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1024,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4.5,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.30.24.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X58EqptgJV8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X58EqptgJV8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=X58EqptgJV8C&printsec=frontcover&dq=percy+jackson&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X58EqptgJV8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X58EqptgJV8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1146.96,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 573.48,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X58EqptgJV8C&rdid=book-X58EqptgJV8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1146960000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 573480000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Percy_Jackson_The_Complete_Series_Books-sample-epub.acsm?id=X58EqptgJV8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X58EqptgJV8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; Percy Jackson: The Complete Series includes all five novels in the action-packed, electrifying series from Rick Riordan: The Lightning Thief, The Sea of Monsters, The Titan&#39;s Curse, The Battle of the Labyrinth, and The Last Olympian."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oXZUAwAAQBAJ",
+      "etag": "+dlHaLwvHuQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oXZUAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Percy Jackson and the Greek Gods",
+        "authors": ["Rick Riordan"],
+        "publisher": "Penguin UK",
+        "publishedDate": "2014-08-07",
+        "description": "\"If you like horror shows, bloodbaths, lying, stealing, backstabbing and cannibalism, then read on...\" Who could tell the true stories of the gods and goddesses of Olympus better than modern-day demigod Percy Jackson? In this action-packed tour of Greek mythology, Percy gives his hilarious personal views on the feuds, fights and love affairs of the Olympians. Want to know how Zeus came to be top god? How many times Kronos ate one of his own kids? How Athena literally burst out of another god's head? It's all here in black and white...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141356358"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141356359"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.18.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oXZUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oXZUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=oXZUAwAAQBAJ&printsec=frontcover&dq=percy+jackson&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oXZUAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oXZUAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 353.11,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 198.01,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oXZUAwAAQBAJ&rdid=book-oXZUAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 353110000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 198010000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Percy_Jackson_and_the_Greek_Gods-sample-epub.acsm?id=oXZUAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oXZUAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;If you like horror shows, bloodbaths, lying, stealing, backstabbing and cannibalism, then read on...&quot; Who could tell the true stories of the gods and goddesses of Olympus better than modern-day demigod Percy Jackson?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QenMoQEACAAJ",
+      "etag": "6i+eo5qqH3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QenMoQEACAAJ",
+      "volumeInfo": {
+        "title": "Percy Jackson's Greek Heroes",
+        "authors": ["Rick Riordan"],
+        "publisher": "Disney-Hyperion",
+        "publishedDate": "2015-08-18",
+        "description": "Who cut off Medusa's head? Who was raised by a she-bear? Who tamed Pegasus? It takes a demigod to know, and Percy Jackson can fill you in on the all the daring deeds of Perseus, Atalanta, Bellerophon, and the rest of the major Greek heroes. Told in the funny, irreverent style readers have come to expect from Percy, (I've had some bad experiences in my time, but the heroes I'm going to tell you about were the original old school hard luck cases. They boldly screwed up where no one had screwed up before. . .) and enhanced with vibrant artwork by Caldecott Honoree John Rocco, this story collection will become the new must-have classic for Rick Riordan's legions of devoted fans--and for anyone who needs a hero. So get your flaming spear. Put on your lion skin cape. Polish your shield and make sure you've got arrows in your quiver. We're going back about four thousand years to decapitate monsters, save some kingdoms, shoot a few gods in the butt, raid the Underworld, and steal loot from evil people. Then, for dessert, we'll die painful tragic deaths. Ready? Sweet. Let's do this.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1423183657"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781423183655"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QenMoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QenMoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=QenMoQEACAAJ&dq=percy+jackson&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=QenMoQEACAAJ&dq=percy+jackson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Percy_Jackson_s_Greek_Heroes.html?hl=&id=QenMoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QenMoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "They boldly screwed up where no one had screwed up before. . .) and enhanced with vibrant artwork by Caldecott Honoree John Rocco, this story collection will become the new must-have classic for Rick Riordan&#39;s legions of devoted fans--and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6oLIjgEACAAJ",
+      "etag": "QlUmzG6a1M8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6oLIjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lightning Thief",
+        "subtitle": "Exclusive",
+        "authors": ["Rick Riordan"],
+        "publishedDate": "2015",
+        "description": "After learning that he is the son of a mortal woman and Poseidon, god of the sea, twelve-year-old Percy is sent to a summer camp for demigods like himself, and joins his new friends on a quest to prevent a war between the gods.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1484733401"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484733400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 375,
+        "printType": "BOOK",
+        "categories": ["Betrayal"],
+        "averageRating": 4.5,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6oLIjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6oLIjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=6oLIjgEACAAJ&dq=percy+jackson&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=6oLIjgEACAAJ&dq=percy+jackson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lightning_Thief.html?hl=&id=6oLIjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6oLIjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Percy Jackson is a good kid, but he can&#39;t seem to focus on his schoolwork or control his temper."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ku9TsH3M1-YC",
+      "etag": "AfHtD9BOkkY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ku9TsH3M1-YC",
+      "volumeInfo": {
+        "title": "Percy Jackson and the Lightning Thief (Book 1)",
+        "authors": ["Rick Riordan"],
+        "publisher": "Penguin UK",
+        "publishedDate": "2008-05-01",
+        "description": "Coming soon to Disney+! Percy Jackson and the Lightning Thief is the first bestselling book in Rick Riordan's phenomenally successful Percy Jackson series. Half boy. Half God. ALL Hero. Look, I didn't want to be a half-blood. I never asked to be the son of a Greek God. I was just a normal kid, going to school, playing basketball, skateboarding. The usual. Until I accidentally vaporized my maths teacher. Now I spend my time battling monsters and generally trying to stay alive. This is the one where Zeus, God of the Sky, thinks I've stolen his lightning bolt - and making Zeus angry is a very bad idea. ----- Rick Riordan has now sold an incredible 55 million copies of his books worldwide 'It's Buffy meets Artemis Fowl. Thumbs up' Sunday Times ----- Books by Rick Riordan: The Percy Jackson series: Percy Jackson and the Lightning Thief Percy Jackson and the Sea of Monsters Percy Jackson and the Titan's Curse Percy Jackson and the Battle of the Labyrinth Percy Jackson and the Last Olympian Percy Jackson: The Demigod Files The Heroes of Olympus series: The Lost Hero The Son Of Neptune The Mark of Athena The Heroes of Olympus: The Demigod Files The Kane Chronicles series: The Red Pyramid The Throne of Fire The Serpent's Shadow The Magnus Chase series: Magnus Chase and the Sword of Summer Magnus Chase and the Hammer of Thor Magnus Chase and the Ship of the Dead The Trials of Apollo series: The Dark Prophecy The Hidden Oracle The Burning Maze",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141924403"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141924403"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4.5,
+        "ratingsCount": 30,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.39.36.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ku9TsH3M1-YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ku9TsH3M1-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ku9TsH3M1-YC&printsec=frontcover&dq=percy+jackson&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ku9TsH3M1-YC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ku9TsH3M1-YC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 351.64,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 174.06,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ku9TsH3M1-YC&rdid=book-ku9TsH3M1-YC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 351640000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 174060000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Percy_Jackson_and_the_Lightning_Thief_Bo-sample-epub.acsm?id=ku9TsH3M1-YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ku9TsH3M1-YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now I spend my time battling monsters and generally trying to stay alive. This is the one where Zeus, God of the Sky, thinks I&#39;ve stolen his lightning bolt - and making Zeus angry is a very bad idea."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pcyOEAAAQBAJ",
+      "etag": "d4DIPmCiW10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pcyOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Last Olympian",
+        "authors": ["Rick Riordan"],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2009",
+        "description": "The long-awaited prophecy surrounding Percy Jackson's sixteenth birthday unfolds as he leads an army of young demigods to stop Kronos in his advance on New York City, while the Olympians struggle to contain the rampaging monster, Typhon.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780739380338"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0739380338"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pcyOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pcyOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=pcyOEAAAQBAJ&dq=percy+jackson&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=pcyOEAAAQBAJ&dq=percy+jackson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Last_Olympian.html?hl=&id=pcyOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pcyOEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the fifth and final installment of Rick Riordan&#39;s Percy Jackson and the Olympians series, sixteen-year-old Percy is about to embark on an adventure that will fulfill his prophecy and put an end to the Olympians&#39; war."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e3_VPwAACAAJ",
+      "etag": "Uu0CbIWnDEc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e3_VPwAACAAJ",
+      "volumeInfo": {
+        "title": "Percy Jackson and the Lightning Thief",
+        "authors": ["Rick Riordan"],
+        "publisher": "Puffin Books",
+        "publishedDate": "2009-12-01",
+        "description": "Look, I didn't want to be a half-blood. I never asked to be the son of a Greek god. I was just a normal kid, going to school, playing basketball, skateboarding. The usual. Until I accidentally vaporized my maths teacher. That's when things started really going wrong. Now I spend my time fighting with swords, battling monsters with my friends and generally trying to stay alive. This is the one where Zeus, God of the Sky, thinks I've stolen his lightning bolt - and making Zeus angry is a very bad idea. Can Percy find the lightning bolt before a fully fledged WAR OF THE GODS ERUPTS? Follow the author on his blog Also available: Percy Jackson and the Battle of the Labyrinth Percy Jackson and the Last Olympian Percy Jackson and the Lightning Thief (audio) Percy Jackson and the Lightning Thief (film tie-in) Percy Jackson and the Sea of Monsters Percy Jackson and the Titan's Curse Percy Jackson: The Demigod Files",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141329998"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141329994"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": ["Children's stories"],
+        "averageRating": 4,
+        "ratingsCount": 694,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e3_VPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e3_VPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=e3_VPwAACAAJ&dq=percy+jackson&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=e3_VPwAACAAJ&dq=percy+jackson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Percy_Jackson_and_the_Lightning_Thief.html?hl=&id=e3_VPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e3_VPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "YA. Fantasy fiction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HQv1AgAAQBAJ",
+      "etag": "X+zUpEvQoLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HQv1AgAAQBAJ",
+      "volumeInfo": {
+        "title": "Demigods and Monsters",
+        "subtitle": "Your Favorite Authors on Rick Riordan's Percy Jackson and the Olympians Series",
+        "authors": ["Rick Riordan"],
+        "publisher": "BenBella Books",
+        "publishedDate": "2013-07-02",
+        "description": "Which Greek god makes the best parent? Would you want to be one of Artemis' Hunters? Why do so many monsters go into retail? Spend a little more time in Percy Jackson's world—a place where the gods bike among us, monsters man snack bars, and each of us has the potential to become a hero. Find out: • Why Dionysus might actually be the best director Camp Half-Blood could have • How to recognize a monster when you see one • Why even if we aren't facing manticores and minotaurs, reading myth can still help us deal with the scary things in our own lives Plus, consult our glossary of people, places, and things from Greek myth: how Medusa got her snake hair extensions, why Chiron isn't into partying and paintball like the rest of his centaur family, and the whole story on Percy's mythical namesake.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781937856366"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1937856364"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": ["Literary Collections"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HQv1AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HQv1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=HQv1AgAAQBAJ&printsec=frontcover&dq=percy+jackson&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=HQv1AgAAQBAJ&dq=percy+jackson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Demigods_and_Monsters.html?hl=&id=HQv1AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HQv1AgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Which Greek god makes the best parent? Would you want to be one of Artemis&#39; Hunters? Why do so many monsters go into retail?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MImvPwAACAAJ",
+      "etag": "auUzoYp3ipM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MImvPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Percy Jackson and the Olympians: Ultimate Guide",
+        "authors": ["Rick Riordan"],
+        "publisher": "Hyperion",
+        "publishedDate": "2010-01-18",
+        "description": "It's the handbook no half-blood should be without: a fully illustrated, in-depth guide to gods, monsters, and all things Percy. This novelty companion to the best-selling series comes complete with trading cards, full-color diagrams, and maps, all packaged in a handy, \"manual-size\" POB with a crisp, magnetic flap enclosure./DIVDIV",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1423121716"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781423121718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4.5,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MImvPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MImvPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=MImvPwAACAAJ&dq=percy+jackson&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=MImvPwAACAAJ&dq=percy+jackson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Percy_Jackson_and_the_Olympians_Ulti.html?hl=&id=MImvPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MImvPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It&#39;s the handbook no half-blood should be without: a fully illustrated, in-depth guide to gods, monsters, and all things Percy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fkekpwAACAAJ",
+      "etag": "rjrU7FJpdeg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fkekpwAACAAJ",
+      "volumeInfo": {
+        "title": "Percy Jackson Collection, - The Lightning Thief, the Last Olympian, Titans Curse, Battle of the Labyrinth",
+        "authors": ["Rick Riordan"],
+        "publishedDate": "2011-11-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141339888"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141339887"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fkekpwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fkekpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=fkekpwAACAAJ&dq=percy+jackson&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=fkekpwAACAAJ&dq=percy+jackson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Percy_Jackson_Collection_The_Lightning_T.html?hl=&id=fkekpwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fkekpwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

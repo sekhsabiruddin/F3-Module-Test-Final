@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="history.css">
+</head>
+
+<body>
+    <div class="conatiner">
+        <h1>Book store App</h1>
+        <div class="header">
+            <p>Your Previous Search</p>
+            <button id="clrSearch">clear Search</button>
+        </div>
+        <div id="listData">
+
+        </div>
+    </div>
+    <script>
+        let listData = document.getElementById("listData");
+        window.addEventListener("load", showData);
+        function showData() {
+            let temp = JSON.parse(localStorage.getItem("searchbook"));
+            for (let i in temp) {
+                console.log(temp[i].searchbkTitle);
+                let serachData = document.createElement("div");
+                serachData.setAttribute("class", "searh-data");
+
+                let p = document.createElement("p");
+                p.innerHTML = temp[i].searchbkTitle;
+
+                let p1 = document.createElement("p");
+                p1.innerHTML = "Seached on :" + temp[i].date + " at " + temp[i].time;
+                serachData.append(p);
+                serachData.append(p1);
+                listData.append(serachData);
+            }
+        }
+
+        let clrSearch = document.getElementById("clrSearch");
+        clrSearch.addEventListener("click", function () {
+            localStorage.clear();
+            window.location.reload();
+
+        })
+    </script>
+</body>
+
+</html>
